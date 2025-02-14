@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Kotlin related to the `removeIf()` function applied to mutable lists. The initial code removes even numbers, but the behavior may differ from what some developers anticipate.  The solution shows a safer approach to handle list modification.
